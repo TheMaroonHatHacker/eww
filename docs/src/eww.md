@@ -26,6 +26,7 @@ The following list of package names should work for arch linux:
 <details>
 <summary>Packages</summary>
 
+- gcc
 - gtk3 (libgdk-3, libgtk-3)
 - gtk-layer-shell (only on Wayland)
 - pango (libpango)
